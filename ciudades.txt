@@ -1,6 +1,6 @@
 Cali
-paris
 New york
-roma
 jamundi
 madrid
+paris
+roma

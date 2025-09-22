@@ -1,6 +1,6 @@
 Kiwi
 fresa
 guanabana
-piña
 mango
 pera
+piña
