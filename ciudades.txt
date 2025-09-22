@@ -1,4 +1,3 @@
-Tokio
 Cali
 paris
 New york
