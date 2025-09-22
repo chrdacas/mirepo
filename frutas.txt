@@ -2,3 +2,6 @@ Manzana
 Kiwi
 fresa
 guanabana
+piña
+mango
+pera
